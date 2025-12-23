@@ -1,5 +1,0 @@
-Date,Time,Fault Type,Equipment,Status
-2025-01-05,10:15,Overcurrent,Transformer T1,Cleared
-2025-01-06,14:30,Earth Fault,Busbar B2,Cleared
-2025-01-07,09:45,Overvoltage,Line L3,Cleared
-2025-01-08,16:20,Short Circuit,Transformer T2,Investigating
